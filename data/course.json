@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "cf413ef9-517f-095e-1b7b-198cc0e290fc",
+      "74271476-78a6-035d-9a63-c7b08018ca72"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Information and Communication Technologies in Community Development",
+  "course_description": "This practicum subject integrates theory and practice through the design, implementation, and evaluation of a comprehensive community information infrastructure that promotes democratic involvement and informs community development projects. Students work with Lawrence Community Works, Inc. to involve constituents and generate solutions to an important planning problem in the City of Lawrence, Massachusetts. Final project presentations take place in a public forum, and serve to inform future development of the information infrastructure. Subject begins with an overview of the digital divide, e-government, public participation GIS, and neighborhood information systems. Subject includes a reflection component and a deliberate investigation of race, class, and gender dynamics.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.423",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
